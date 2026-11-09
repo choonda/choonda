@@ -58,7 +58,11 @@ Software Engineering undergraduate at Universiti Teknologi Malaysia (UTM) passio
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choonda&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choonda&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=choonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Choon Da's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=choonda&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=choonda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
