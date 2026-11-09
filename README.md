@@ -38,21 +38,17 @@ Software Engineering undergraduate at Universiti Teknologi Malaysia (UTM) passio
 
 ### 🚀 Featured Projects
 
-- **[FutureJob – AI-Driven Job Matching Platform](https://github.com/choonda/futurejob)**  
+- **[FutureJob – AI-Driven Job Matching Platform](https://github.com/newweijun/umhackathon)**  
   _UM Hackathon 2026_ • `Next.js 14` `TypeScript` `Supabase` `Tailwind CSS`  
   Dual-portal job discovery platform with automated text parsing and skill matching.
 
-- **[3D Digital Twin Vertical Farming System](https://github.com/choonda/vertical-farming-twin)**  
+- **[3D Digital Twin Vertical Farming System](https://github.com/ACZH05/utm-hackathon-2026)**  
   _UTM Hackathon 2026_ • `React Three Fiber` `FastAPI` `Next.js` `Supabase`  
   Interactive 3D browser digital twin streaming real-time IoT telemetry with anomaly alerting.
 
-- **[EcoHorizon – Telemetry & Eco-Driving App](https://github.com/choonda/ecohorizon)**  
+- **[EcoHorizon – Telemetry & Eco-Driving App](https://github.com/choonda/Vibeathon2026-EcoHorizon)**  
   `Flutter` `Dart` `Google Maps API` `Bluetooth ELM327 OBD-II`  
   Cross-platform mobile app analyzing vehicle telemetry to incentivize fuel-efficient driving routes.
-
-- **[Credit Card Fraud Detection Pipeline](https://github.com/choonda/fraud-detection)**  
-  _USM Varsity Hackathon 2026_ • `Python` `XGBoost` `Scikit-Learn` `SMOTE`  
-  ML classification pipeline tackling extreme class imbalance, reaching 0.8489 PR-AUC on 280k+ records.
 
 - **AGV Diagnostic Visualizer (`navwiz-visualizer`)**  
   _Collaboration with DF Automation & Robotics_ • `JavaScript` `Node.js` `Gulp` `Sass`  
